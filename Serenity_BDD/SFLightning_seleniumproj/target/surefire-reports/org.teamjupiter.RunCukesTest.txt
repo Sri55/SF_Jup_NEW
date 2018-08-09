@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.teamjupiter.RunCukesTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.322 s <<< FAILURE! - in org.teamjupiter.RunCukesTest
+initializationError(org.teamjupiter.RunCukesTest)  Time elapsed: 0.01 s  <<< ERROR!
+gherkin.TagExpression$BadTagException: Bad tag: "not @bug"
+
